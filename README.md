@@ -1,5 +1,7 @@
 # Neural_Network_R
-Neural Network built using R.
+Neural Network built using R. 
+
+Next up will be application of the model on a dataset!
 
 ### Resource
 
